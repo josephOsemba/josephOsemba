@@ -96,7 +96,3 @@ As a full-stack developer, I have expertise across the following areas:
 ## 🔥 What Makes Me Unique?
 
 I combine **AI**, **web scraping**, **3D simulations**, and **full-stack development** to build real-world applications that push the boundaries of what’s possible in both the digital and physical worlds.
-
----
-
-Feel free to copy and paste this into your `README.md` file. Let me know if you'd like any changes!
