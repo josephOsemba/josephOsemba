@@ -38,7 +38,7 @@ AI + Web Scraping + Full-Stack + 3D Simulations
 
 ### 🔥 Streaks & Trophies:
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=josephOsemba&theme=dark)](https://git.io/streak-stats)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephOsemba&show_icons=true&theme=github_dark)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=josephOsemba&theme=algolia&margin-w=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
