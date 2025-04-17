@@ -24,7 +24,7 @@ AI + Web Scraping + Full-Stack + 3D Simulations
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-osemba-26a86a247/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/josephOsemba)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josedakul80/)
 
 ---
@@ -64,3 +64,4 @@ AI + Web Scraping + Full-Stack + 3D Simulations
 
 ### ✨ Let’s Build Something Great!
 > “Turning ideas into code and code into reality.”
+
