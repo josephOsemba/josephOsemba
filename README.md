@@ -6,7 +6,7 @@
 🚀 Welcome to my GitHub! I’m a passionate developer blending **AI**, **full-stack web development**, and **automation** to build real-world solutions.
 
 ### 💼 Specialties:
-- **Frontend**: React (Vite), R3F (3D Physics), UI/UX, Redux.
+- **Frontend**: React (Vite), R3F (3D), UI/UX, Redux.
 - **Backend**: Flask (Python), PHP, REST APIs, JWT Auth.
 - **AI/ML**: NLP, AI model training, Pandas, NumPy, Matplotlib.
 - **Web Scraping**: Crawl4AI, async scraping, Flask web scrapers.
